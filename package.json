@@ -5,7 +5,7 @@
   "author": "Andrew Filgueiras <andrew.filgueiras@outlook.com>",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.19.1"
+    "axios": "^0.21.1"
   },
   "devDependencies": {
     "@babel/cli": "^7.8.3",
